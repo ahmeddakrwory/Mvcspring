@@ -1,0 +1,13 @@
+sp\common\beans\OrderBean.class
+sp\common\beans\ConsumerAddreesBean.class
+sp\common\beans\ProviderUserBean.class
+sp\common\beans\ProductBean.class
+sp\common\beans\CategoryBean.class
+sp\common\beans\DilevearyAreaBean.class
+com\mycompany\spcommon\SeniorConstant.class
+sp\common\beans\BranchBean.class
+sp\common\beans\OrderItemBean.class
+sp\common\beans\CityBean.class
+sp\common\beans\ConsumerBean.class
+sp\common\beans\ProviderBean.class
+sp\common\beans\AreaBean.class

@@ -1,0 +1,10 @@
+sp\mangerImpl\MenuManagerImpl.class
+sp\transformers\CommonTransformer.class
+sp\transformers\CityTransformer.class
+sp\mangerImpl\LookupsManagerImpl.class
+sp\manger\LookupsManager.class
+sp\transformers\ProviderTransformer.class
+com\mycompany\springbl\MyGetway.class
+com\mycompany\springbl\Testbl.class
+sp\manger\MenuManager.class
+sp\transformers\CategoryTransforms.class
